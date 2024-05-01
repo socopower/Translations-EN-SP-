@@ -11,11 +11,12 @@ Below you can find a table that will contain:
 - Start Date
 - End Date
 - Translation link
+- Difficulty 
 - Translation cost (if applicable)
 
-| Project's name | Number of words | Start date | End date | Translation link | Translation cost |
-|     :---:      |     :---:       |    :---:   |     :---:    |     :---:     |     :---:     |
-| [Reserve Protocol](https://reserve.org/)   | ≈12,500     | 04/11 | 05/01 | [Link]() | N/A |
+| Project's name | Number of words | Start date | End date | Translation link | Difficulty | Translation cost |
+|     :---:      |     :---:       |    :---:   |     :---:    |     :---:     |     :---:     |     :---:     |
+| [Reserve Protocol](https://reserve.org/)   | ≈12,500     | 04/11 | 05/01 | [Link]() | Medium | N/A |
 
 If you want to translate the documentation of your project from English to Spanish, do not hesitate to send me a DM through: 
 - [X/Twitter](https://twitter.com/dserrano01)
