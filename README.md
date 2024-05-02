@@ -12,7 +12,7 @@ Below you can find a table that will contain:
 - End Date
 - Translation link
 - Difficulty 
-- Translation cost (if applicable)
+- Translation cost (if apply)
 
 | Project's name | Number of words | Start date | End date | Difficulty | Translated Docs | Translation cost |
 |     :---:      |     :---:       |    :---:   |     :---:    |     :---:     |     :---:     |     :---:     |
