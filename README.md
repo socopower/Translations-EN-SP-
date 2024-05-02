@@ -14,9 +14,9 @@ Below you can find a table that will contain:
 - Difficulty 
 - Translation cost (if applicable)
 
-| Project's name | Number of words | Start date | End date | Translation link | Difficulty | Translation cost |
+| Project's name | Number of words | Start date | End date | Difficulty | Translated Docs | Translation cost |
 |     :---:      |     :---:       |    :---:   |     :---:    |     :---:     |     :---:     |     :---:     |
-| [Reserve Protocol](https://reserve.org/)   | ≈12,500     | 04/11 | 05/01 | [Link]() | Medium | N/A |
+| [Reserve Protocol](https://reserve.org/)   | ≈12,500     | 04/11 | 05/01 | Medium | [Link](https://hackmd.io/@socopower/ReserveProtocol) | N/A |
 
 If you want to translate the documentation of your project from English to Spanish, do not hesitate to send me a DM through: 
 - [X/Twitter](https://twitter.com/dserrano01)
